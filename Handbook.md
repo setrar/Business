@@ -31,3 +31,7 @@ Your team definitely needs to have tools for
 - (4) planning cash management, 
 - (5) assessing future profitability. 
 These tools need not be 100% precise, actually they cannot be since you can't guess what your competitors will do. But they need to be 80-90% accurate. In order to cope with the difference (and avoid being short of cash, of goods, etc.) you need to incorporate a "buffer" (extra resource that may or may not be needed).
+
+## Videos
+
+- [ ] [Playlist](https://www.youtube.com/@francisbidault8577/videos)
