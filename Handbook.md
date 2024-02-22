@@ -25,9 +25,9 @@ There are substantial differences between market areas in terms of the general e
 - [ ] [What type of Excel "tools" would you recommend?](https://startupsim.eurecom.fr/faq/search/011)
 
 Your team definitely needs to have tools for 
-(1) calculating costs, 
-(2) forecasting inventory and downgrading, 
-(3) estimating future B2C sales, 
-(4) planning cash management, 
-(5) assessing future profitability. 
+- (1) calculating costs, 
+- (2) forecasting inventory and downgrading, 
+- (3) estimating future B2C sales, 
+- (4) planning cash management, 
+- (5) assessing future profitability. 
 These tools need not be 100% precise, actually they cannot be since you can't guess what your competitors will do. But they need to be 80-90% accurate. In order to cope with the difference (and avoid being short of cash, of goods, etc.) you need to incorporate a "buffer" (extra resource that may or may not be needed).
