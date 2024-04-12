@@ -40,19 +40,19 @@ Yes, profit margins are typically expressed in percentage points. This conventio
 Here’s a breakdown of how profit margins are commonly calculated and expressed:
 
 1. **Gross Profit Margin**: This is calculated by subtracting the cost of goods sold (COGS) from total revenue and then dividing the result by the total revenue. The formula is:
-   \[
+   $$
    \text{Gross Profit Margin} = \left(\frac{\text{Total Revenue} - \text{COGS}}{\text{Total Revenue}}\right) \times 100\%
-   \]
+   $$
 
 2. **Operating Profit Margin**: This takes into account operating expenses in addition to COGS. It is calculated by subtracting operating expenses and COGS from total revenue, and then dividing by total revenue:
-   \[
+   $$
    \text{Operating Profit Margin} = \left(\frac{\text{Operating Income}}{\text{Total Revenue}}\right) \times 100\%
-   \]
+   $$
    where Operating Income = Total Revenue - COGS - Operating Expenses.
 
 3. **Net Profit Margin**: This considers all expenses, including COGS, operating expenses, interest, and taxes. It is derived by dividing net profit (total revenue minus all expenses) by total revenue:
-   \[
+   $$
    \text{Net Profit Margin} = \left(\frac{\text{Net Profit}}{\text{Total Revenue}}\right) \times 100\%
-   \]
+   $$
 
 Using percentage points for these calculations allows businesses and analysts to gauge the efficiency of a company's management in generating profit from sales. It also facilitates comparisons over different periods or among different companies, providing insights into the operational and financial health of a business.
