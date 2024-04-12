@@ -1,9 +1,7 @@
 
 ---
 
-Graphs with sales, gross margins, net earnings
-from Q1 to end (comparative with other firms if
-appropriate) – ensure the graphs are readable
+Graphs with sales, gross margins, net earnings from Q1 to end (comparative with other firms if appropriate) – ensure the graphs are readable
 • Key Financial Figures (mandatory):
 - (Cumulative) Retained Earnings at end
 - Total dividends distributed (Q1 to end)
