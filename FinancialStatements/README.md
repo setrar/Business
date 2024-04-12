@@ -59,3 +59,49 @@ $$
 $$
 
 Using percentage points for these calculations allows businesses and analysts to gauge the efficiency of a company's management in generating profit from sales. It also facilitates comparisons over different periods or among different companies, providing insights into the operational and financial health of a business.
+
+Liquidity ratios are critical financial metrics used to determine a company's ability to meet its short-term debt obligations using its current or most liquid assets. They provide insight into the financial health of a business, particularly its short-term stability. Here are the formulas for the most commonly used liquidity ratios:
+
+### 1. **Current Ratio**
+
+The **Current Ratio** measures a company's ability to cover its short-term liabilities with its short-term assets. It is calculated as:
+
+$$
+\text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}
+$$
+
+- **Current Assets** include cash, marketable securities, accounts receivable, inventory, and other assets that are expected to be liquidated or turned into cash in less than one year.
+- **Current Liabilities** are obligations the company expects to pay within the coming year.
+
+### 2. **Quick Ratio** (also known as the **Acid-Test Ratio**)
+
+The **Quick Ratio** is a more stringent test of liquidity compared to the current ratio. It excludes inventory and other less liquid current assets as part of the available assets to cover current liabilities. It is calculated as:
+
+$$
+\text{Quick Ratio} = \frac{\text{Current Assets} - \text{Inventories} - \text{Prepaid Expenses}}{\text{Current Liabilities}}
+$$
+
+or
+
+$$
+\text{Quick Ratio} = \frac{\text{Cash and Cash Equivalents} + \text{Marketable Securities} + \text{Accounts Receivable}}{\text{Current Liabilities}}
+$$
+
+This ratio focuses on the most liquid assets, those that can be quickly converted to cash.
+
+### 3. **Cash Ratio**
+
+The **Cash Ratio** is an even more conservative measure of a company's liquidity, examining only cash and cash equivalents relative to current liabilities. It is calculated as:
+
+$$
+\text{Cash Ratio} = \frac{\text{Cash and Cash Equivalents}}{\text{Current Liabilities}}
+$$
+
+This ratio measures the ability of a company to immediately pay off its current liabilities with cash or assets that are cash-like in their liquidity.
+
+### Practical Importance
+
+- **Risk Assessment**: These ratios are used by creditors and investors to assess the risk level of a company, particularly its ability to pay off short-term debts.
+- **Operational Efficiency**: A high liquidity ratio might indicate good short-term financial health, but it can also suggest an inefficient use of assets. Conversely, a very low liquidity ratio might indicate financial distress or poor cash management.
+
+These liquidity ratios provide essential insights into a company's operational efficiency and financial health, helping stakeholders make informed decisions. However, it's crucial to compare these ratios within the context of industry standards and historical company performance for accurate assessment.
