@@ -1,3 +1,17 @@
+
+---
+
+Graphs with sales, gross margins, net earnings
+from Q1 to end (comparative with other firms if
+appropriate) – ensure the graphs are readable
+• Key Financial Figures (mandatory):
+- (Cumulative) Retained Earnings at end
+- Total dividends distributed (Q1 to end)
+- Cumulative Supplier Credit (Q1 to end)
+
+---
+
+
 When selling a company, several key financial indicators are crucial to assess the company's health, attractiveness, and value. These indicators help potential buyers understand the financial performance and potential future returns of the business. Here are some of the primary financial indicators and metrics that are typically considered important during the sale of a company:
 
 ### 1. **Revenue and Revenue Growth**
