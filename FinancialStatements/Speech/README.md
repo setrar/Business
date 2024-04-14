@@ -1,6 +1,6 @@
 "Ladies and gentlemen, esteemed colleagues,
 
-Today, I'm pleased to present our financial results for the past quarter. This period has been marked by significant achievements and challenges, yet through strategic initiatives, we have continued to drive growth and improve our financial health.
+Today, I'm pleased to present our financial results for the past quarters. This period has been marked by significant achievements and challenges, yet through strategic initiatives, we have continued to drive growth and improve our financial health.
 
 First, let's talk about revenue. We have achieved a revenue of $200 million this quarter, which represents a 5% increase over the previous quarter. This growth is primarily attributable to our expanded digital services and international market penetration. It reflects our commitment to innovation and excellence in serving our customers.
 
