@@ -17,10 +17,12 @@ Concerning our liquidity ratios, the current ratio stands at a more than healthy
 
 Finally, comparing our projected versus actual financial metrics over the last quarters, we have consistently met or exceeded most of our financial growth. The projected quarters, however, while our revenue projections were slightly overestimated, we managed to maintain profitability through cost savings and operational adjustments and avoid credits.
 
+| | |
+|-|-|
+| <img src=images/financial_projection_bp2.png width='' height='' > </img> | <img src=images/financial_projection_end.png width='' height='' > </img> |
+
+
 In summary, our financial health is strong, and our strategic initiatives are paying off. We are well-positioned to navigate future challenges and seize growth opportunities.
 
 Thank you for your continued trust and support."
 
-| | |
-|-|-|
-| <img src=images/financial_projection_bp2.png width='' height='' > </img> | <img src=images/financial_projection_end.png width='' height='' > </img> |
