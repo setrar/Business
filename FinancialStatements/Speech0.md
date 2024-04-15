@@ -11,12 +11,11 @@ Moving to our financial key indicators, our gross profit margin has remained sta
 
 <img src=images/Key-Financial-Indicators.png width='' height='' > </img>
 
-Concerning our liquidity ratios, the current ratio stands at a more than healthy 500, signaling our ability to cover short-term obligations. The quick ratio, an even stricter measure, is at 1.2, which underscores our strong liquidity position without reliance on inventory.
+Concerning our liquidity ratios, the current ratio stands at a more than healthy 500, signaling our ability to cover short-term obligations. The quick ratio, an even stricter measure, is just below the current ratio, which underscores our strong liquidity position without reliance on inventory.
 
 <img src=images/Key-Financial-Indicators2.png width='' height='' > </img>
 
-
-Finally, comparing our projected versus actual financial metrics over the last quarters, we have consistently met or exceeded most of our financial targets. This quarter, however, while our revenue projections were slightly overestimated, we managed to maintain profitability through cost savings and operational adjustments.
+Finally, comparing our projected versus actual financial metrics over the last quarters, we have consistently met or exceeded most of our financial growth. The projected quarters, however, while our revenue projections were slightly overestimated, we managed to maintain profitability through cost savings and operational adjustments and avoid credits.
 
 In summary, our financial health is strong, and our strategic initiatives are paying off. We are well-positioned to navigate future challenges and seize growth opportunities.
 
