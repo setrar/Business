@@ -7,7 +7,7 @@ Firstly, our retained earnings the last quarters have shown a robust increase, r
 
 <img src=images/Key-Financial-Figures.png width='40%' height='40%' > </img>
 
-Moving to our financial key indicators, our gross profit margin hopefully will remain stable at around 35%, demonstrating our ability to manage production costs effectively. Our net profit margin has seen a steady increase to remain at 25%, indicative of our operational efficiencies and stringent cost control measures.
+Moving to our financial key indicators, our gross profit margin hopefully will remain stable at around 35%, demonstrating our ability to manage production costs effectively. Our net profit margin has seen a steady increase to remain at around 30%, indicative of our operational efficiencies and stringent cost control measures.
 
 <img src=images/Key-Financial-Indicators.png width='40%' height='40%' > </img>
 
