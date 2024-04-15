@@ -15,3 +15,13 @@ Lastly, our cash flow remains strong, with an increase in operating cash flow by
 In conclusion, the figures and indicators from this quarter reflect our strong financial position and our commitment to sustained growth. We are on a solid path towards achieving our goals for the year, and I am optimistic about what we can accomplish together in the upcoming quarters.
 
 Thank you for your continued trust and support."
+
+<img src=/images/Key-Financial-Figures.png width='' height='' > </img>
+
+<img src=/images/Key-Financial-Indicators.png width='' height='' > </img>
+
+<img src=/images/Key-Financial-Indicators2.png width='' height='' > </img>
+
+<img src=/images/financial_projection_bp2.png width='' height='' > </img>
+
+<img src=/images/financial_projection_end.png width='' height='' > </img>
