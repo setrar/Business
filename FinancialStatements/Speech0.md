@@ -11,7 +11,7 @@ Moving to our financial key indicators, our gross profit margin has remained sta
 
 <img src=images/Key-Financial-Indicators.png width='' height='' > </img>
 
-Concerning our liquidity ratios, the current ratio stands at a healthy 1.5, signaling our ability to cover short-term obligations. The quick ratio, an even stricter measure, is at 1.2, which underscores our strong liquidity position without reliance on inventory.
+Concerning our liquidity ratios, the current ratio stands at a more than healthy 500, signaling our ability to cover short-term obligations. The quick ratio, an even stricter measure, is at 1.2, which underscores our strong liquidity position without reliance on inventory.
 
 <img src=images/Key-Financial-Indicators2.png width='' height='' > </img>
 
