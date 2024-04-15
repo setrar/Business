@@ -3,7 +3,7 @@
 
 Thank you for joining today's financial overview. Let’s delve into our latest quarterly figures and key financial indicators that highlight our strategic trajectory and operational efficiency.
 
-Firstly, our retained earnings this quarter have shown a robust increase, reflecting our solid profitability and prudent financial management. We retained $50 million, supporting our strategic investments and growth initiatives. Dividends paid out this quarter amounted to $10 million, maintaining a rewarding yield for our shareholders. Additionally, our supplier credits have improved, which enhances our purchasing power and reflects our strong relationships with vendors.
+Firstly, our retained earnings the last quarters have shown a robust increase, reflecting our solid profitability and prudent financial management. We retained close to 30 million, supporting our strategic investments and growth initiatives. Dividends paid out this quarter amounted a close 2 million, maintaining a rewarding yield for our shareholders. Additionally, our supplier credits have increased, but still enhances our purchasing power and somewhat reflects our strong relationships with vendors.
 
 Moving to our financial key indicators, our gross profit margin has remained stable at 25%, demonstrating our ability to manage production costs effectively. Our net profit margin has seen a slight improvement to 18%, indicative of our operational efficiencies and stringent cost control measures.
 
