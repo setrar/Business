@@ -1,6 +1,3 @@
-Here's a 1:30-minute financial report speech that incorporates the requested financial figures and key indicators, including retained earnings, dividends, supplier credits, gross and net profit margins, current and quick ratios, and a comparison of projected vs. actual financial metrics:
-
----
 
 "Ladies and gentlemen,
 
@@ -18,6 +15,11 @@ In summary, our financial health is strong, and our strategic initiatives are pa
 
 Thank you for your continued trust and support."
 
----
+<img src=images/Key-Financial-Figures.png width='' height='' > </img>
 
-This speech is designed to fit within a 1:30 minute time limit, focusing succinctly on the critical financial aspects. It should be delivered at a steady pace to ensure clarity and audience engagement.
+<img src=images/Key-Financial-Indicators.png width='' height='' > </img>
+
+<img src=images/Key-Financial-Indicators2.png width='' height='' > </img>
+| | |
+|-|-|
+| <img src=images/financial_projection_bp2.png width='' height='' > </img> | <img src=images/financial_projection_end.png width='' height='' > </img> |
