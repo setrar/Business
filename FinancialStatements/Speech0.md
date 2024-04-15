@@ -15,7 +15,7 @@ Concerning our liquidity ratios, the current ratio stands at a more than a healt
 
 <img src=images/Key-Financial-Indicators2.png width='40%' height='40%' > </img>
 
-Finally, comparing our projected versus actual financial metrics over the last quarters, we have consistently met or exceeded most of our financial growth. For the actual quarters, however, while our revenue projections were slightly overestimated, we managed to maintain profitability through cost savings and operational adjustments and avoid credits to finance our ambitious initiatives.
+Finally, comparing our projected versus actual financial metrics over the last quarters, we have consistently met or exceeded most of our financial growth. For the actual quarters, however, while our revenue projections were slightly overestimated, we managed to maintain profitability through cost savings and operational adjustments and avoid credit.
 
 | | |
 |-|-|
